@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-## Overview
+# Overview
 
 This repository contains a Power BI project designed to analyze and visualize candlestick chart data for performance evaluation. Candlestick charts are widely used in financial markets to track and analyze the price movements of assets over time. This project aims to provide a comprehensive and interactive dashboard that allows users to gain insights into market trends, identify potential investment opportunities, and make data-driven decisions.
 
