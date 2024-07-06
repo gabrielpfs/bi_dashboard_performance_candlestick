@@ -6,6 +6,10 @@
   <br>
 </h1>
 
+Dashboard View
+
+![candlestick](https://github.com/gabrielpfs/bi_dashboard_performance_candlestick/assets/88781022/09ef79b6-f50e-4324-9039-f7a210dd35b3)
+
 # Overview
 
 This repository contains a Power BI project designed to analyze and visualize candlestick chart data for performance evaluation. Candlestick charts are widely used in financial markets to track and analyze the price movements of assets over time. This project aims to provide a comprehensive and interactive dashboard that allows users to gain insights into market trends, identify potential investment opportunities, and make data-driven decisions.
