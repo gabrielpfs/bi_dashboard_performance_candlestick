@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/Vinteum-Software/integration-crm-hubspot-contacts/blob/main/project_logo.png"><img src="https://github.com/Vinteum-Software/integration-crm-hubspot-contacts/blob/main/project_logo.png" alt="CRM Hubspot" width="80"></a>
+  <a href="https://github.com/user-attachments/assets/61250cf8-9b95-4770-ba91-07c3bdd87754"><img src="https://github.com/user-attachments/assets/61250cf8-9b95-4770-ba91-07c3bdd87754" alt="CRM Hubspot" width="80"></a>
   <br>
   Candlestick Performance Analysis in Power BI
   <br>
