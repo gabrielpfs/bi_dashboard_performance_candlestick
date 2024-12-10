@@ -1,6 +1,7 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/user-attachments/assets/61250cf8-9b95-4770-ba91-07c3bdd87754"><img src="https://github.com/user-attachments/assets/61250cf8-9b95-4770-ba91-07c3bdd87754" alt="CRM Hubspot" width="80"></a>
+  <a href="https://github.com/user-attachments/assets/61250cf8-9b95-4770-ba91-07c3bdd87754"><img src="https://github.com/user-attachments/assets/61250cf8-9b95-4770-ba91-07c3bdd87754" alt="project" width="80"></a>
+  <a href="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="power_bi" width="62"></a>
   <br>
   Candlestick Performance Analysis in Power BI
   <br>
